@@ -1,7 +1,7 @@
 
 
 def main():
-    name = "My Official Mail is Kamran@oulookmail.com"
+    name = "My"
 
 
     # print("Chatbot ready! Type 'exit' to quit.\n")
